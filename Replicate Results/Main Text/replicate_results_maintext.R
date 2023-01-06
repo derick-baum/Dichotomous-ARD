@@ -1,7 +1,7 @@
 #  "Uses and Limitations of Dichotomous Aggregate Relational Data"
 #  R Script for replicating results in the article
 #
-#  Author: Derick S.Baum <derick_baum@g.harvard.edu>
+#  Author: Derick S.Baum <derick_baum@g.hard.edu>
 
 ################################ Main Text ################################
 
