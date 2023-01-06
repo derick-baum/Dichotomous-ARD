@@ -2,7 +2,7 @@
 
 ## Software Requirement
 
-To undertake replication, you need R and Stan installed. 
+To undertake replication, you need R and Stan installed on your computer. Required packages are listed at the top of the R scripts.  
 
 ## Data
 
