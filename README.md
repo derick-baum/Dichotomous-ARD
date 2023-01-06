@@ -1,5 +1,9 @@
 # Replication Materials for "Uses and Limitations of Dichotomous Aggregate Relational Data"
 
+## Software Requirement
+
+To undertake replication, you need R and Stan installed. 
+
 ## Data
 
 The folder "Dichotomous-ARD-Replication-Materials/Data" contains the data sets already transformed and recoded from the source versions. Please refer to the "Analytic Strategy" segment of the paper for directions to the raw data and steps for preparing them for analysis. 
